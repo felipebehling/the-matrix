@@ -1,3 +1,4 @@
 # the-matrix
 
-# The most ambitious project I ever had the idea to do!
+# The most ambitious project I ever had!
+##But still simple.
